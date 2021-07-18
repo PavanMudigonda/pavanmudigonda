@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have more than 30 certifications to date.
 
+
+[![Pavan Mudigonda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnpawan)](https://github.com/mnpawan/github-readme-stats)
