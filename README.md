@@ -11,3 +11,7 @@
 
 
 [![Pavan Mudigonda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnpawan)](https://github.com/mnpawan/github-readme-stats)
+
+
+![Pavan Mudigonda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnpawan&show_icons=true)
+
