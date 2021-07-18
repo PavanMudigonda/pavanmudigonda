@@ -1,11 +1,5 @@
 ![1617755230417](https://user-images.githubusercontent.com/29324338/126084298-e1f09662-3686-4cf7-92ac-3b29cd0e3f88.jpg)
 
-
-<!--
-**mnpawan/mnpawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at Thomson Reuters as Lead QA DevOps Engineer.
 - 🌱 I’m currently learning  AWS, Docker, Kubernetes, OpenShift, RHEL and Ansible
 - 👯 I’m looking to collaborate on learning something new.
