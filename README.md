@@ -14,4 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpawan)](https://github.com/mnpawan/github-readme-stats)
 
+[![Pavan Mudigonda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mnpawan)](https://github.com/mnpawan/github-readme-stats)
+
+
 
