@@ -3,11 +3,11 @@
 - 🔭 I’m currently working at Thomson Reuters as Lead Engineer in DevOps Team.
 - 🌱 I’m currently learning  AWS, Docker, Kubernetes, OpenShift, RHEL and Ansible
 - 👯 I’m looking to collaborate on learning something new.
-- 🤔 I’m looking for help with Playwright Automation Tool.
+- 🤔 I’m looking for help with Kubernetes Tool.
 - 💬 Ask me about anything.
 - 📫 How to reach: https://abcd.guru
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have more than 30 certifications to date.
+- ⚡ Fun fact: I have once seen a frog drink coke with both its hands from a can. Trust me :)
 
 
 [![Pavan Mudigonda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnpawan)](https://github.com/mnpawan/github-readme-stats)
