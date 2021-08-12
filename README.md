@@ -13,5 +13,16 @@
 [![Pavan Mudigonda's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanMudigonda)](https://github.com/mnpawan/github-readme-stats)
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0PYMY6HS9C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0PYMY6HS9C');
+</script>
+
+
 
 
