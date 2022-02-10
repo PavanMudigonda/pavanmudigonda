@@ -10,16 +10,4 @@
 - ⚡ Fun fact: I have once seen a frog drink coke with both its hands from a can. Trust me :)
 
 
-[![Pavan Mudigonda's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavanMudigonda)](https://github.com/mnpawan/github-readme-stats)
-
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6K64FNRTBE"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-6K64FNRTBE');
-</script>
 
