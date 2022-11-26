@@ -3,7 +3,6 @@
 - 🔭 I’m currently working at Thomson Reuters as Lead Engineer in DevOps Team.
 - 🌱 I’m currently learning  AWS, Kubernetes
 - 👯 I’m looking to collaborate on learning something new.
-- 🤔 I’m looking for help with Kubernetes Tool.
 - 💬 Ask me about anything.
 - 📫 How to reach: mnpawan@gmail.com
 - 😄 Pronouns: He/Him
