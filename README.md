@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on learning something new.
 - 🤔 I’m looking for help with Kubernetes Tool.
 - 💬 Ask me about anything.
-- 📫 How to reach: https://abcd.guru
+- 📫 How to reach: mnpawan@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have once seen a frog drink coke with both its hands from a can. Trust me :)
 
