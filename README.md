@@ -8,5 +8,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have once seen a frog drink coke with both its hands from a can. Trust me :)
 
-
-
+![UserStats](./images/userstats.svg)
