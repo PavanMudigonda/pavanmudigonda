@@ -38,7 +38,7 @@ Ansible
 PostgreSQL | MySQL | MongoDB | Redis | DynamoDB  
 
 **AI/ML:**  
-Azure OpenAI | Vertex AI | LangChain | Hugging Face | MLOps  
+Azure OpenAI | Azure AI Studio | Prompt Flow | Semantic Kernel | AWS Bedrock | AWS SageMaker | Vertex AI | Gemini | LangChain | Hugging Face | MLOps  
 
 **Version Control:**  
 Git | GitHub
